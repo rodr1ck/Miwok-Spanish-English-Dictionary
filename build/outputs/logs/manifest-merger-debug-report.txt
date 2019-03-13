@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:1-70:12
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:1-70:12
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:1-70:12
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:1-70:12
+MERGED from [com.android.support:design:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\8ed8da22074cd51dc4f79e20115db8e4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c208ea933b96a5ebe8408221923d62da\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\89ba26441a423e92dcd0bcd1031bd095\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:1-70:12
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:1-70:12
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:1-70:12
+	package
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:17:5-40
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:1-70:12
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:1-70:12
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:16:11-69
+application
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:19:5-68:19
+MERGED from [com.android.support:design:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\8ed8da22074cd51dc4f79e20115db8e4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\8ed8da22074cd51dc4f79e20115db8e4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c208ea933b96a5ebe8408221923d62da\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c208ea933b96a5ebe8408221923d62da\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\89ba26441a423e92dcd0bcd1031bd095\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\89ba26441a423e92dcd0bcd1031bd095\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.miwok.MainActivity
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.android.miwok.NumbersActivity
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:parentActivityName
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:35:13-55
+	android:label
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:34:13-53
+	android:name
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:33:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:37:13-39:48
+	android:value
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:39:17-46
+	android:name
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:38:17-63
+activity#com.example.android.miwok.FamilyActivity
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:41:9-49:20
+	android:parentActivityName
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:44:13-55
+	android:label
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:42:13-43
+activity#com.example.android.miwok.ColorsActivity
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:50:9-58:20
+	android:parentActivityName
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:53:13-55
+	android:label
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:52:13-52
+	android:name
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:51:13-43
+activity#com.example.android.miwok.PhrasesActivity
+ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:59:9-67:20
+	android:parentActivityName
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:62:13-55
+	android:label
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:61:13-53
+	android:name
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml:60:13-44
+uses-sdk
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\8ed8da22074cd51dc4f79e20115db8e4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\design-23.0.0.aar\8ed8da22074cd51dc4f79e20115db8e4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c208ea933b96a5ebe8408221923d62da\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\c208ea933b96a5ebe8408221923d62da\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\89ba26441a423e92dcd0bcd1031bd095\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\USUARIO\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\89ba26441a423e92dcd0bcd1031bd095\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USUARIO\AndroidStudioProjects\Nueva_carpeta\ud839_Miwok2\app\src\main\AndroidManifest.xml
