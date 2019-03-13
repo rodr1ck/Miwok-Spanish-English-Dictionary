@@ -1,4 +1,0 @@
-#Tue Mar 05 14:09:54 CLST 2019
-base.0=C\:\\Users\\USUARIO\\AndroidStudioProjects\\Nueva_carpeta\\ud839_Miwok2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
-path.0=classes.dex
-renamed.0=classes.dex
